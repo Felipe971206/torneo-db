@@ -1,0 +1,227 @@
+[
+    {
+        "_id": "lionel_messi",
+        "nombre": "Lionel Messi",
+        "numero": 10,
+        "posicion": "Delantero",
+        "edad": 37,
+        "equipo_id": "arg",
+        "equipo": "Argentina",
+        "estadisticas": {
+            "goles": 6,
+            "asistencias": 5,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "julian_alvarez",
+        "nombre": "Julián Álvarez",
+        "numero": 9,
+        "posicion": "Delantero",
+        "edad": 24,
+        "equipo_id": "arg",
+        "equipo": "Argentina",
+        "estadisticas": {
+            "goles": 4,
+            "asistencias": 2,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "luis_diaz",
+        "nombre": "Luis Díaz",
+        "numero": 14,
+        "posicion": "Delantero",
+        "edad": 27,
+        "equipo_id": "col",
+        "equipo": "Colombia",
+        "estadisticas": {
+            "goles": 4,
+            "asistencias": 2,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "rafael_santos_borre",
+        "nombre": "Rafael Santos Borré",
+        "numero": 19,
+        "posicion": "Delantero",
+        "edad": 28,
+        "equipo_id": "col",
+        "equipo": "Colombia",
+        "estadisticas": {
+            "goles": 3,
+            "asistencias": 1,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "darwin_nunez",
+        "nombre": "Darwin Núñez",
+        "numero": 9,
+        "posicion": "Delantero",
+        "edad": 25,
+        "equipo_id": "uru",
+        "equipo": "Uruguay",
+        "estadisticas": {
+            "goles": 5,
+            "asistencias": 1,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "federico_valverde",
+        "nombre": "Federico Valverde",
+        "numero": 15,
+        "posicion": "Mediocampista",
+        "edad": 25,
+        "equipo_id": "uru",
+        "equipo": "Uruguay",
+        "estadisticas": {
+            "goles": 2,
+            "asistencias": 3,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "alphonso_davies",
+        "nombre": "Alphonso Davies",
+        "numero": 19,
+        "posicion": "Defensor",
+        "edad": 23,
+        "equipo_id": "can",
+        "equipo": "Canadá",
+        "estadisticas": {
+            "goles": 2,
+            "asistencias": 3,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "jonathan_david",
+        "nombre": "Jonathan David",
+        "numero": 20,
+        "posicion": "Delantero",
+        "edad": 24,
+        "equipo_id": "can",
+        "equipo": "Canadá",
+        "estadisticas": {
+            "goles": 3,
+            "asistencias": 1,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "christian_pulisic",
+        "nombre": "Christian Pulisic",
+        "numero": 10,
+        "posicion": "Delantero",
+        "edad": 26,
+        "equipo_id": "usa",
+        "equipo": "Estados Unidos",
+        "estadisticas": {
+            "goles": 3,
+            "asistencias": 2,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "keylor_navas",
+        "nombre": "Keylor Navas",
+        "numero": 1,
+        "posicion": "Portero",
+        "edad": 37,
+        "equipo_id": "crc",
+        "equipo": "Costa Rica",
+        "estadisticas": {
+            "goles_evitalados": 15,
+            "porterias_a_cero": 3,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "andre_blake",
+        "nombre": "Andre Blake",
+        "numero": 1,
+        "posicion": "Portero",
+        "edad": 33,
+        "equipo_id": "jam",
+        "equipo": "Jamaica",
+        "estadisticas": {
+            "goles_evitalados": 12,
+            "porterias_a_cero": 2,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "enner_valencia",
+        "nombre": "Enner Valencia",
+        "numero": 13,
+        "posicion": "Delantero",
+        "edad": 34,
+        "equipo_id": "ecu",
+        "equipo": "Ecuador",
+        "estadisticas": {
+            "goles": 3,
+            "asistencias": 1,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "alexis_sanchez",
+        "nombre": "Alexis Sánchez",
+        "numero": 7,
+        "posicion": "Delantero",
+        "edad": 35,
+        "equipo_id": "chi",
+        "equipo": "Chile",
+        "estadisticas": {
+            "goles": 2,
+            "asistencias": 2,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "paolo_guerrero",
+        "nombre": "Paolo Guerrero",
+        "numero": 9,
+        "posicion": "Delantero",
+        "edad": 40,
+        "equipo_id": "per",
+        "equipo": "Perú",
+        "estadisticas": {
+            "goles": 2,
+            "asistencias": 1,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    },
+    {
+        "_id": "james_rodriguez",
+        "nombre": "James Rodríguez",
+        "numero": 10,
+        "posicion": "Mediocampista",
+        "edad": 33,
+        "equipo_id": "col",
+        "equipo": "Colombia",
+        "estadisticas": {
+            "goles": 2,
+            "asistencias": 4,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0
+        }
+    }    
+]
