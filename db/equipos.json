@@ -1,0 +1,322 @@
+[
+    {
+        "_id": "arg",
+        "nombre": "Argentina",
+        "entrenador": {
+            "nombre": "Lionel Scaloni",
+            "experiencia": 10
+        },
+        "jugadores": [
+            { "nombre": "Lionel Messi", "numero": 10, "posicion": "Delantero", "edad": 36 },
+            { "nombre": "Emiliano Martínez", "numero": 1, "posicion": "Portero", "edad": 31 },
+            { "nombre": "Ángel Di María", "numero": 11, "posicion": "Mediocampista", "edad": 36 },
+            { "nombre": "Lautaro Martínez", "numero": 22, "posicion": "Delantero", "edad": 26 },
+            { "nombre": "Rodrigo De Paul", "numero": 7, "posicion": "Mediocampista", "edad": 29 },
+            { "nombre": "Leandro Paredes", "numero": 5, "posicion": "Defensor", "edad": 30 },
+            { "nombre": "Nicolás Otamendi", "numero": 19, "posicion": "Defensor", "edad": 35 },
+            { "nombre": "Julian Álvarez", "numero": 9, "posicion": "Delantero", "edad": 24 },
+            { "nombre": "Enzo Fernández", "numero": 8, "posicion": "Mediocampista", "edad": 23 },
+            { "nombre": "Giovani Lo Celso", "numero": 20, "posicion": "Mediocampista", "edad": 27 }
+        ]
+    },
+    {
+        "_id": "bra",
+        "nombre": "Brasil",
+        "entrenador": {
+            "nombre": "Fernando Diniz",
+            "experiencia": 15
+        },
+        "jugadores": [
+            { "nombre": "Neymar Jr.", "numero": 10, "posicion": "Delantero", "edad": 32 },
+            { "nombre": "Alisson Becker", "numero": 1, "posicion": "Portero", "edad": 31 },
+            { "nombre": "Casemiro", "numero": 5, "posicion": "Mediocampista", "edad": 32 },
+            { "nombre": "Vinícius Jr.", "numero": 11, "posicion": "Delantero", "edad": 24 },
+            { "nombre": "Richarlison", "numero": 9, "posicion": "Delantero", "edad": 27 },
+            { "nombre": "Marquinhos", "numero": 4, "posicion": "Defensor", "edad": 29 },
+            { "nombre": "Lucas Paquetá", "numero": 7, "posicion": "Mediocampista", "edad": 26 },
+            { "nombre": "Gabriel Jesus", "numero": 21, "posicion": "Delantero", "edad": 27 },
+            { "nombre": "Danilo", "numero": 6, "posicion": "Defensor", "edad": 33 },
+            { "nombre": "Bruno Guimarães", "numero": 8, "posicion": "Mediocampista", "edad": 26 }
+        ]
+    },
+    {
+        "_id": "uru",
+        "nombre": "Uruguay",
+        "entrenador": {
+            "nombre": "Marcelo Bielsa",
+            "experiencia": 20
+        },
+        "jugadores": [
+            { "nombre": "Federico Valverde", "numero": 15, "posicion": "Mediocampista", "edad": 25 },
+            { "nombre": "Darwin Núñez", "numero": 9, "posicion": "Delantero", "edad": 24 },
+            { "nombre": "Sergio Rochet", "numero": 1, "posicion": "Portero", "edad": 30 },
+            { "nombre": "Luis Suárez", "numero": 10, "posicion": "Delantero", "edad": 37 },
+            { "nombre": "Edinson Cavani", "numero": 21, "posicion": "Delantero", "edad": 37 },
+            { "nombre": "Matías Vecino", "numero": 6, "posicion": "Mediocampista", "edad": 31 },
+            { "nombre": "Ronald Araújo", "numero": 3, "posicion": "Defensor", "edad": 24 },
+            { "nombre": "Facundo Pellistri", "numero": 8, "posicion": "Mediocampista", "edad": 22 },
+            { "nombre": "Diego Godín", "numero": 2, "posicion": "Defensor", "edad": 38 },
+            { "nombre": "José María Giménez", "numero": 5, "posicion": "Defensor", "edad": 29 }
+        ]
+    },
+    {
+        "_id": "chi",
+        "nombre": "Chile",
+        "entrenador": {
+            "nombre": "Eduardo Berizzo",
+            "experiencia": 18
+        },
+        "jugadores": [
+            { "nombre": "Alexis Sánchez", "numero": 7, "posicion": "Delantero", "edad": 35 },
+            { "nombre": "Claudio Bravo", "numero": 1, "posicion": "Portero", "edad": 40 },
+            { "nombre": "Arturo Vidal", "numero": 8, "posicion": "Mediocampista", "edad": 37 },
+            { "nombre": "Gary Medel", "numero": 17, "posicion": "Defensor", "edad": 36 },
+            { "nombre": "Charles Aránguiz", "numero": 20, "posicion": "Mediocampista", "edad": 35 },
+            { "nombre": "Jean Meneses", "numero": 16, "posicion": "Delantero", "edad": 30 },
+            { "nombre": "Guillermo Maripán", "numero": 3, "posicion": "Defensor", "edad": 30 },
+            { "nombre": "Ben Brereton", "numero": 22, "posicion": "Delantero", "edad": 25 },
+            { "nombre": "Francisco Sierralta", "numero": 2, "posicion": "Defensor", "edad": 26 },
+            { "nombre": "Diego Valdés", "numero": 10, "posicion": "Mediocampista", "edad": 29 }
+        ]
+    },
+    {
+        "_id": "par",
+        "nombre": "Paraguay",
+        "entrenador": {
+            "nombre": "Guillermo Barros Schelotto",
+            "experiencia": 12
+        },
+        "jugadores": [
+            { "nombre": "Miguel Almirón", "numero": 10, "posicion": "Delantero", "edad": 30 },
+            { "nombre": "Antony Silva", "numero": 1, "posicion": "Portero", "edad": 38 },
+            { "nombre": "Fabián Balbuena", "numero": 14, "posicion": "Defensor", "edad": 32 },
+            { "nombre": "Óscar Romero", "numero": 7, "posicion": "Mediocampista", "edad": 31 },
+            { "nombre": "Ángel Romero", "numero": 11, "posicion": "Delantero", "edad": 31 },
+            { "nombre": "Gustavo Gómez", "numero": 2, "posicion": "Defensor", "edad": 30 },
+            { "nombre": "Richard Sánchez", "numero": 6, "posicion": "Mediocampista", "edad": 27 },
+            { "nombre": "Robert Morales", "numero": 18, "posicion": "Delantero", "edad": 24 },
+            { "nombre": "Junior Alonso", "numero": 3, "posicion": "Defensor", "edad": 30 },
+            { "nombre": "Mathias Villasanti", "numero": 8, "posicion": "Mediocampista", "edad": 26 }
+        ]
+    },
+    {
+        "_id": "col",
+        "nombre": "Colombia",
+        "entrenador": {
+            "nombre": "Néstor Lorenzo",
+            "experiencia": 15
+        },
+        "jugadores": [
+            { "nombre": "Luis Díaz", "numero": 14, "posicion": "Delantero", "edad": 27 },
+            { "nombre": "David Ospina", "numero": 1, "posicion": "Portero", "edad": 35 },
+            { "nombre": "Yerry Mina", "numero": 13, "posicion": "Defensor", "edad": 30 },
+            { "nombre": "Juan Cuadrado", "numero": 11, "posicion": "Mediocampista", "edad": 35 },
+            { "nombre": "James Rodríguez", "numero": 10, "posicion": "Mediocampista", "edad": 33 },
+            { "nombre": "Rafael Santos Borré", "numero": 19, "posicion": "Delantero", "edad": 28 },
+            { "nombre": "Wilmar Barrios", "numero": 5, "posicion": "Mediocampista", "edad": 30 },
+            { "nombre": "Jhon Lucumí", "numero": 4, "posicion": "Defensor", "edad": 25 },
+            { "nombre": "Daniel Muñoz", "numero": 2, "posicion": "Defensor", "edad": 27 },
+            { "nombre": "Mateus Uribe", "numero": 6, "posicion": "Mediocampista", "edad": 32 }
+        ]
+    },
+    {
+        "_id": "per",
+        "nombre": "Perú",
+        "entrenador": {
+            "nombre": "Juan Reynoso",
+            "experiencia": 10
+        },
+        "jugadores": [
+            { "nombre": "Gianluca Lapadula", "numero": 9, "posicion": "Delantero", "edad": 34 },
+            { "nombre": "Pedro Gallese", "numero": 1, "posicion": "Portero", "edad": 33 },
+            { "nombre": "Renato Tapia", "numero": 13, "posicion": "Mediocampista", "edad": 28 },
+            { "nombre": "André Carrillo", "numero": 18, "posicion": "Delantero", "edad": 33 },
+            { "nombre": "Christian Cueva", "numero": 10, "posicion": "Mediocampista", "edad": 32 },
+            { "nombre": "Luis Advíncula", "numero": 17, "posicion": "Defensor", "edad": 34 },
+            { "nombre": "Carlos Zambrano", "numero": 5, "posicion": "Defensor", "edad": 35 },
+            { "nombre": "Edison Flores", "numero": 20, "posicion": "Mediocampista", "edad": 30 },
+            { "nombre": "Yoshimar Yotún", "numero": 19, "posicion": "Mediocampista", "edad": 34 },
+            { "nombre": "Marcos López", "numero": 4, "posicion": "Defensor", "edad": 25 }
+        ]
+    },
+    {
+        "_id": "ven",
+        "nombre": "Venezuela",
+        "entrenador": {
+            "nombre": "Fernando Batista",
+            "experiencia": 8
+        },
+        "jugadores": [
+            { "nombre": "Salomón Rondón", "numero": 23, "posicion": "Delantero", "edad": 34 },
+            { "nombre": "Wuilker Faríñez", "numero": 1, "posicion": "Portero", "edad": 26 },
+            { "nombre": "Yangel Herrera", "numero": 8, "posicion": "Mediocampista", "edad": 26 },
+            { "nombre": "Josef Martínez", "numero": 17, "posicion": "Delantero", "edad": 30 },
+            { "nombre": "Tomás Rincón", "numero": 6, "posicion": "Mediocampista", "edad": 36 },
+            { "nombre": "Ronald Hernández", "numero": 2, "posicion": "Defensor", "edad": 26 },
+            { "nombre": "Jhon Chancellor", "numero": 3, "posicion": "Defensor", "edad": 31 },
+            { "nombre": "Darwin Machís", "numero": 11, "posicion": "Delantero", "edad": 31 },
+            { "nombre": "Nahuel Ferraresi", "numero": 4, "posicion": "Defensor", "edad": 25 },
+            { "nombre": "Jefferson Savarino", "numero": 10, "posicion": "Mediocampista", "edad": 27 }
+        ]
+    },
+    {
+        "_id": "ecu",
+        "nombre": "Ecuador",
+        "entrenador": {
+            "nombre": "Félix Sánchez",
+            "experiencia": 12
+        },
+        "jugadores": [
+            { "nombre": "Enner Valencia", "numero": 13, "posicion": "Delantero", "edad": 34 },
+            { "nombre": "Alexander Domínguez", "numero": 1, "posicion": "Portero", "edad": 36 },
+            { "nombre": "Moisés Caicedo", "numero": 23, "posicion": "Mediocampista", "edad": 22 },
+            { "nombre": "Pervis Estupiñán", "numero": 7, "posicion": "Defensor", "edad": 25 },
+            { "nombre": "Gonzalo Plata", "numero": 10, "posicion": "Delantero", "edad": 23 },
+            { "nombre": "Carlos Gruezo", "numero": 5, "posicion": "Mediocampista", "edad": 28 },
+            { "nombre": "Ángel Mena", "numero": 15, "posicion": "Delantero", "edad": 35 },
+            { "nombre": "Félix Torres", "numero": 2, "posicion": "Defensor", "edad": 26 },
+            { "nombre": "Alan Franco", "numero": 8, "posicion": "Mediocampista", "edad": 25 },
+            { "nombre": "Robert Arboleda", "numero": 6, "posicion": "Defensor", "edad": 32 }
+        ]
+    },
+    {
+        "_id": "bol",
+        "nombre": "Bolivia",
+        "entrenador": {
+            "nombre": "Gustavo Costas",
+            "experiencia": 20
+        },
+        "jugadores": [
+            { "nombre": "Marcelo Martins", "numero": 9, "posicion": "Delantero", "edad": 37 },
+            { "nombre": "Carlos Lampe", "numero": 1, "posicion": "Portero", "edad": 36 },
+            { "nombre": "Alejandro Chumacero", "numero": 3, "posicion": "Mediocampista", "edad": 33 },
+            { "nombre": "Juan Carlos Arce", "numero": 7, "posicion": "Delantero", "edad": 39 },
+            { "nombre": "Jairo Quinteros", "numero": 5, "posicion": "Defensor", "edad": 23 },
+            { "nombre": "Erwin Saavedra", "numero": 8, "posicion": "Mediocampista", "edad": 28 },
+            { "nombre": "Adrián Jusino", "numero": 4, "posicion": "Defensor", "edad": 31 },
+            { "nombre": "Henry Vaca", "numero": 10, "posicion": "Mediocampista", "edad": 26 },
+            { "nombre": "Roberto Fernández", "numero": 2, "posicion": "Defensor", "edad": 24 },
+            { "nombre": "Ramiro Vaca", "numero": 11, "posicion": "Mediocampista", "edad": 25 }
+        ]
+    },
+    {
+        "_id": "mex",
+        "nombre": "México",
+        "entrenador": {
+            "nombre": "Jaime Lozano",
+            "experiencia": 5
+        },
+        "jugadores": [
+            { "nombre": "Hirving Lozano", "numero": 22, "posicion": "Delantero", "edad": 29 },
+            { "nombre": "Guillermo Ochoa", "numero": 13, "posicion": "Portero", "edad": 39 },
+            { "nombre": "Edson Álvarez", "numero": 4, "posicion": "Mediocampista", "edad": 26 },
+            { "nombre": "Raúl Jiménez", "numero": 9, "posicion": "Delantero", "edad": 33 },
+            { "nombre": "Héctor Herrera", "numero": 16, "posicion": "Mediocampista", "edad": 34 },
+            { "nombre": "Jesús Corona", "numero": 17, "posicion": "Delantero", "edad": 31 },
+            { "nombre": "César Montes", "numero": 3, "posicion": "Defensor", "edad": 27 },
+            { "nombre": "Jorge Sánchez", "numero": 21, "posicion": "Defensor", "edad": 26 },
+            { "nombre": "Luis Romo", "numero": 7, "posicion": "Mediocampista", "edad": 29 },
+            { "nombre": "Orbelín Pineda", "numero": 10, "posicion": "Mediocampista", "edad": 28 }
+        ]
+    },
+    {
+        "_id": "usa",
+        "nombre": "Estados Unidos",
+        "entrenador": {
+            "nombre": "Gregg Berhalter",
+            "experiencia": 7
+        },
+        "jugadores": [
+            { "nombre": "Christian Pulisic", "numero": 10, "posicion": "Delantero", "edad": 26 },
+            { "nombre": "Weston McKennie", "numero": 8, "posicion": "Mediocampista", "edad": 26 },
+            { "nombre": "Tyler Adams", "numero": 4, "posicion": "Mediocampista", "edad": 25 },
+            { "nombre": "Sergiño Dest", "numero": 2, "posicion": "Defensor", "edad": 24 },
+            { "nombre": "Giovanni Reyna", "numero": 7, "posicion": "Delantero", "edad": 22 },
+            { "nombre": "Timothy Weah", "numero": 21, "posicion": "Delantero", "edad": 24 },
+            { "nombre": "Matt Turner", "numero": 1, "posicion": "Portero", "edad": 30 },
+            { "nombre": "Walker Zimmerman", "numero": 5, "posicion": "Defensor", "edad": 31 },
+            { "nombre": "Antonee Robinson", "numero": 6, "posicion": "Defensor", "edad": 27 },
+            { "nombre": "Brenden Aaronson", "numero": 11, "posicion": "Mediocampista", "edad": 24 }
+        ]
+    },
+    {
+        "_id": "can",
+        "nombre": "Canadá",
+        "entrenador": {
+            "nombre": "John Herdman",
+            "experiencia": 6
+        },
+        "jugadores": [
+            { "nombre": "Alphonso Davies", "numero": 19, "posicion": "Defensor", "edad": 23 },
+            { "nombre": "Jonathan David", "numero": 20, "posicion": "Delantero", "edad": 24 },
+            { "nombre": "Cyle Larin", "numero": 17, "posicion": "Delantero", "edad": 29 },
+            { "nombre": "Stephen Eustáquio", "numero": 7, "posicion": "Mediocampista", "edad": 27 },
+            { "nombre": "Milan Borjan", "numero": 1, "posicion": "Portero", "edad": 36 },
+            { "nombre": "Atiba Hutchinson", "numero": 13, "posicion": "Mediocampista", "edad": 41 },
+            { "nombre": "Tajon Buchanan", "numero": 11, "posicion": "Delantero", "edad": 25 },
+            { "nombre": "Kamal Miller", "numero": 4, "posicion": "Defensor", "edad": 26 },
+            { "nombre": "Richie Laryea", "numero": 22, "posicion": "Defensor", "edad": 29 },
+            { "nombre": "Junior Hoilett", "numero": 10, "posicion": "Mediocampista", "edad": 34 }
+        ]
+    },
+    {
+        "_id": "crc",
+        "nombre": "Costa Rica",
+        "entrenador": {
+            "nombre": "Luis Fernando Suárez",
+            "experiencia": 18
+        },
+        "jugadores": [
+            { "nombre": "Keylor Navas", "numero": 1, "posicion": "Portero", "edad": 37 },
+            { "nombre": "Joel Campbell", "numero": 12, "posicion": "Delantero", "edad": 32 },
+            { "nombre": "Celso Borges", "numero": 5, "posicion": "Mediocampista", "edad": 35 },
+            { "nombre": "Bryan Ruiz", "numero": 10, "posicion": "Mediocampista", "edad": 38 },
+            { "nombre": "Óscar Duarte", "numero": 6, "posicion": "Defensor", "edad": 34 },
+            { "nombre": "Francisco Calvo", "numero": 3, "posicion": "Defensor", "edad": 31 },
+            { "nombre": "Kendall Waston", "numero": 19, "posicion": "Defensor", "edad": 35 },
+            { "nombre": "Jewison Bennette", "numero": 16, "posicion": "Delantero", "edad": 19 },
+            { "nombre": "Brandon Aguilera", "numero": 8, "posicion": "Mediocampista", "edad": 20 },
+            { "nombre": "Anthony Contreras", "numero": 17, "posicion": "Delantero", "edad": 23 }
+        ]
+    },
+    {
+        "_id": "jam",
+        "nombre": "Jamaica",
+        "entrenador": {
+            "nombre": "Heimir Hallgrímsson",
+            "experiencia": 10
+        },
+        "jugadores": [
+            { "nombre": "Andre Blake", "numero": 1, "posicion": "Portero", "edad": 33 },
+            { "nombre": "Leon Bailey", "numero": 7, "posicion": "Delantero", "edad": 26 },
+            { "nombre": "Michail Antonio", "numero": 9, "posicion": "Delantero", "edad": 34 },
+            { "nombre": "Damion Lowe", "numero": 3, "posicion": "Defensor", "edad": 31 },
+            { "nombre": "Ravel Morrison", "numero": 10, "posicion": "Mediocampista", "edad": 31 },
+            { "nombre": "Bobby Decordova-Reid", "numero": 11, "posicion": "Mediocampista", "edad": 31 },
+            { "nombre": "Ethan Pinnock", "numero": 15, "posicion": "Defensor", "edad": 30 },
+            { "nombre": "Adrian Mariappa", "numero": 6, "posicion": "Defensor", "edad": 37 },
+            { "nombre": "Shamar Nicholson", "numero": 14, "posicion": "Delantero", "edad": 26 },
+            { "nombre": "Javain Brown", "numero": 2, "posicion": "Defensor", "edad": 24 }
+        ]
+    },
+    {
+        "_id": "pan",
+        "nombre": "Panamá",
+        "entrenador": {
+            "nombre": "Thomas Christiansen",
+            "experiencia": 5
+        },
+        "jugadores": [
+            { "nombre": "Luis Mejía", "numero": 1, "posicion": "Portero", "edad": 33 },
+            { "nombre": "Édgar Bárcenas", "numero": 10, "posicion": "Mediocampista", "edad": 30 },
+            { "nombre": "Cecilio Waterman", "numero": 9, "posicion": "Delantero", "edad": 32 },
+            { "nombre": "Aníbal Godoy", "numero": 5, "posicion": "Mediocampista", "edad": 34 },
+            { "nombre": "Harold Cummings", "numero": 3, "posicion": "Defensor", "edad": 31 },
+            { "nombre": "Fidel Escobar", "numero": 4, "posicion": "Defensor", "edad": 28 },
+            { "nombre": "Michael Amir Murillo", "numero": 2, "posicion": "Defensor", "edad": 28 },
+            { "nombre": "Yoel Bárcenas", "numero": 8, "posicion": "Mediocampista", "edad": 29 },
+            { "nombre": "Ismael Díaz", "numero": 7, "posicion": "Delantero", "edad": 26 },
+            { "nombre": "Armando Cooper", "numero": 11, "posicion": "Mediocampista", "edad": 35 }
+        ]
+    }       
+]
