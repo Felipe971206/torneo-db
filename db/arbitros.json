@@ -1,0 +1,130 @@
+[
+    {
+        "_id": "wilmar_roldan",
+        "nombre": "Wilmar Roldán",
+        "nacionalidad": "Colombia",
+        "experiencia": 15,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-21", "equipo_local": "Ecuador", "equipo_visitante": "Venezuela", "fase": "Grupos", "resultado": "1-0" },
+            { "fecha": "2024-07-14", "equipo_local": "Argentina", "equipo_visitante": "Colombia", "fase": "Final", "resultado": "3-1" }
+        ]
+    },
+    {
+        "_id": "kevin_ortega",
+        "nombre": "Kevin Ortega",
+        "nacionalidad": "Perú",
+        "experiencia": 10,
+        "partidos_dirigidos": [
+            { "fecha": "2024-07-01", "equipo_local": "Estados Unidos", "equipo_visitante": "Uruguay", "fase": "Grupos", "resultado": "0-1" }
+        ]
+    },
+    {
+        "_id": "edina_alves",
+        "nombre": "Edina Alves",
+        "nacionalidad": "Brasil",
+        "experiencia": 12,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-25", "equipo_local": "Panamá", "equipo_visitante": "Bolivia", "fase": "Grupos", "resultado": "3-1" }
+        ]
+    },
+    {
+        "_id": "jesus_valenzuela",
+        "nombre": "Jesús Valenzuela",
+        "nacionalidad": "Venezuela",
+        "experiencia": 8,
+        "partidos_dirigidos": [
+            { "fecha": "2024-07-14", "equipo_local": "Argentina", "equipo_visitante": "Colombia", "fase": "Final", "resultado": "3-1" }
+        ]
+    },
+    {
+        "_id": "raphael_claus",
+        "nombre": "Raphael Claus",
+        "nacionalidad": "Brasil",
+        "experiencia": 14,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-20", "equipo_local": "Argentina", "equipo_visitante": "Canadá", "fase": "Grupos", "resultado": "2-0" }
+        ]
+    },
+    {
+        "_id": "mario_escobar",
+        "nombre": "Mario Escobar",
+        "nacionalidad": "Guatemala",
+        "experiencia": 9,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-22", "equipo_local": "México", "equipo_visitante": "Chile", "fase": "Grupos", "resultado": "1-1" }
+        ]
+    },
+    {
+        "_id": "dario_herrera",
+        "nombre": "Darío Herrera",
+        "nacionalidad": "Argentina",
+        "experiencia": 11,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-23", "equipo_local": "Brasil", "equipo_visitante": "Perú", "fase": "Grupos", "resultado": "2-2" }
+        ]
+    },
+    {
+        "_id": "andres_matonte",
+        "nombre": "Andrés Matonte",
+        "nacionalidad": "Uruguay",
+        "experiencia": 7,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-24", "equipo_local": "Colombia", "equipo_visitante": "Paraguay", "fase": "Grupos", "resultado": "1-0" }
+        ]
+    },
+    {
+        "_id": "wilton_sampaio",
+        "nombre": "Wilton Sampaio",
+        "nacionalidad": "Brasil",
+        "experiencia": 13,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-26", "equipo_local": "Uruguay", "equipo_visitante": "Bolivia", "fase": "Grupos", "resultado": "3-0" }
+        ]
+    },
+    {
+        "_id": "ismail_elfath",
+        "nombre": "Ismail Elfath",
+        "nacionalidad": "Estados Unidos",
+        "experiencia": 10,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-27", "equipo_local": "Estados Unidos", "equipo_visitante": "Jamaica", "fase": "Grupos", "resultado": "2-1" }
+        ]
+    },
+    {
+        "_id": "alexis_herrera",
+        "nombre": "Alexis Herrera",
+        "nacionalidad": "Venezuela",
+        "experiencia": 9,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-18", "equipo_local": "Ecuador", "equipo_visitante": "Panamá", "fase": "Grupos", "resultado": "2-1" },
+            { "fecha": "2024-07-06", "equipo_local": "Brasil", "equipo_visitante": "Colombia", "fase": "Semifinal", "resultado": "1-2" }
+        ]
+    },
+    {
+        "_id": "piero_maza",
+        "nombre": "Piero Maza",
+        "nacionalidad": "Chile",
+        "experiencia": 12,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-19", "equipo_local": "Argentina", "equipo_visitante": "México", "fase": "Grupos", "resultado": "2-0" }
+        ]
+    },
+    {
+        "_id": "fernando_rapallini",
+        "nombre": "Fernando Rapallini",
+        "nacionalidad": "Argentina",
+        "experiencia": 11,
+        "partidos_dirigidos": [
+            { "fecha": "2024-06-20", "equipo_local": "Uruguay", "equipo_visitante": "Chile", "fase": "Grupos", "resultado": "2-1" }
+        ]
+    },
+    {
+        "_id": "roberto_tobar",
+        "nombre": "Roberto Tobar",
+        "nacionalidad": "Chile",
+        "experiencia": 14,
+        "partidos_dirigidos": [
+            { "fecha": "2024-07-08", "equipo_local": "Brasil", "equipo_visitante": "Argentina", "fase": "Semifinal", "resultado": "1-3" }
+        ]
+    }
+]
