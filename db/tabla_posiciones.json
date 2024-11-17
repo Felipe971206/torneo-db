@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "arg",
+        "equipo": "Argentina",
+        "partidos_jugados": 7,
+        "victorias": 6,
+        "empates": 0,
+        "derrotas": 1,
+        "goles_a_favor": 14,
+        "goles_en_contra": 3,
+        "diferencia_de_goles": 11,
+        "puntos": 18
+    },
+    {
+        "_id": "bra",
+        "equipo": "Brasil",
+        "partidos_jugados": 7,
+        "victorias": 5,
+        "empates": 1,
+        "derrotas": 1,
+        "goles_a_favor": 12,
+        "goles_en_contra": 4,
+        "diferencia_de_goles": 8,
+        "puntos": 16
+    },
+    {
+        "_id": "col",
+        "equipo": "Colombia",
+        "partidos_jugados": 7,
+        "victorias": 4,
+        "empates": 2,
+        "derrotas": 1,
+        "goles_a_favor": 10,
+        "goles_en_contra": 5,
+        "diferencia_de_goles": 5,
+        "puntos": 14
+    },
+    {
+        "_id": "mex",
+        "equipo": "México",
+        "partidos_jugados": 7,
+        "victorias": 4,
+        "empates": 1,
+        "derrotas": 2,
+        "goles_a_favor": 9,
+        "goles_en_contra": 7,
+        "diferencia_de_goles": 2,
+        "puntos": 13
+    },
+    {
+        "_id": "uru",
+        "equipo": "Uruguay",
+        "partidos_jugados": 4,
+        "victorias": 2,
+        "empates": 1,
+        "derrotas": 1,
+        "goles_a_favor": 9,
+        "goles_en_contra": 5,
+        "diferencia_de_goles": 4,
+        "puntos": 7
+    },
+    {
+        "_id": "ven",
+        "equipo": "Venezuela",
+        "partidos_jugados": 4,
+        "victorias": 2,
+        "empates": 0,
+        "derrotas": 2,
+        "goles_a_favor": 5,
+        "goles_en_contra": 5,
+        "diferencia_de_goles": 0,
+        "puntos": 6
+    },
+    {
+        "_id": "ecu",
+        "equipo": "Ecuador",
+        "partidos_jugados": 4,
+        "victorias": 1,
+        "empates": 1,
+        "derrotas": 2,
+        "goles_a_favor": 5,
+        "goles_en_contra": 6,
+        "diferencia_de_goles": -1,
+        "puntos": 4
+    },
+    {
+        "_id": "pan",
+        "equipo": "Panamá",
+        "partidos_jugados": 4,
+        "victorias": 1,
+        "empates": 1,
+        "derrotas": 2,
+        "goles_a_favor": 5,
+        "goles_en_contra": 7,
+        "diferencia_de_goles": -2,
+        "puntos": 4
+    },
+    {
+        "_id": "chi",
+        "equipo": "Chile",
+        "partidos_jugados": 3,
+        "victorias": 0,
+        "empates": 2,
+        "derrotas": 1,
+        "goles_a_favor": 3,
+        "goles_en_contra": 4,
+        "diferencia_de_goles": -1,
+        "puntos": 2
+    },
+    {
+        "_id": "crc",
+        "equipo": "Costa Rica",
+        "partidos_jugados": 3,
+        "victorias": 0,
+        "empates": 2,
+        "derrotas": 1,
+        "goles_a_favor": 2,
+        "goles_en_contra": 4,
+        "diferencia_de_goles": -2,
+        "puntos": 2
+    }
+]
