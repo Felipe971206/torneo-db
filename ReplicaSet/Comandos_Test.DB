@@ -1,0 +1,5 @@
+use torneo;
+db.equipos.insertOne({ nombre: "Argentina", puntos: 18 });
+
+rs.slaveOk(); // Permite lecturas en nodos secundarios
+db.equipos.find({ nombre: "Argentina" });
